@@ -25,5 +25,6 @@ The python Chatbot server is a wrapper around the Cleverbot API and communicates
 
 ### Credits
 
-Creator : [Aayush Dawra] (http://github.com/iamadawra)
+Creator and Auhor: [Aayush Dawra] (http://github.com/iamadawra)
+
 Collaborator: [Siddhant Puri] (https://github.com/siddhantpuri)
