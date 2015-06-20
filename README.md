@@ -1,8 +1,7 @@
 Node.JS Chat server and Python Cleverbot server
 ===
 
-Powered with Node.js, Express, Socket.io and Jade.
-It use Bootstrap from Twitter and the javascript libraries SlimScroll.
+Powered with Node.js, Express, Socket.io and Jade. It uses Bootstrap from Twitter and the javascript libraries SlimScroll.
 Thanks to Node.js being asynchronous, the chat can handle a lot of simultaneous connections without lag.
 
 The python Chatbot server is a wrapper around the Cleverbot API and communicates with the Node.js server through the ZeroRPC library. The communication is currently dependent on the ZeroMQ library which is deprecated and this aspect of the application needs to updated.
@@ -27,3 +26,4 @@ The python Chatbot server is a wrapper around the Cleverbot API and communicates
 ### Credits
 
 Creator : [Aayush Dawra] (http://github.com/iamadawra)
+Collaborator: [Siddhant Puri] (https://github.com/siddhantpuri)
