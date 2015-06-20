@@ -1,11 +1,12 @@
 {
   "name":"chat",
   "node":"0.6.12",
-  "author":"geekuillaume",
+  "author":"iamadawra",
   "dependencies": {
   	"socket.io": "*",
   	"express": "*",
-  	"jade": "*"
+  	"jade": "*",
+    "zerorpc": "0.9.5"
   	  },
   "scripts": {
   	"start": "node server.js"
